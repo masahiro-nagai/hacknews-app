@@ -1,7 +1,3 @@
-<script>
-
-</script>
-
 
 <div class="container">
     <!-- 全てのページでヘッダーを表示する -->
